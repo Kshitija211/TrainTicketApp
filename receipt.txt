@@ -1,0 +1,7 @@
+Receipt for k k
+From: London
+To: France
+Email: k
+Price Paid: $20.0
+Seat Section: A
+Seat Number: 1
